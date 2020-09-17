@@ -1,6 +1,9 @@
 # Olá, eu sou Erick 👋
 
 ## Estudante de Sistemas de Informação e Desenvolver WEB Fullstack 😃👨‍💻
+- Atualmente estou desenvolvendo websites juntamente com a [Wase][wase]
+- As próximas tecnologias que pretendo estudar são: Docker <img width="18px" src="https://devicon.dev/devicon.git/icons/docker/docker-original.svg" /> e TypeScript <img width="18px" src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" />
+- Estou a procura de um estágio 💼👨‍💼
 
 ### Onde me encontrar:
 
@@ -38,7 +41,7 @@
 
 <img align="left" width="32px" alt="MySQL" src="https://devicon.dev/devicon.git/icons/mysql/mysql-original.svg" />
 
-<img align="left" width="32px" alt="MongoDB" src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original.svg" />
+<img align="left" width="32px" alt="MongoDB" src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-plain-wordmark.svg" />
 
 <img align="left" width="32px" alt="Git" src="https://devicon.dev/devicon.git/icons/git/git-original.svg" />
 
@@ -50,3 +53,4 @@
 [instagram]: https://www.instagram.com/erick__ds/
 [github]: https://github.com/dsErick
 [linkedin]: https://www.linkedin.com/in/ds-erick/
+[wase]: https://www.instagram.com/agenciawase/
