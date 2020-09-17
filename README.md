@@ -2,7 +2,7 @@
 
 ## Estudante de Sistemas de Informação e Desenvolver WEB Fullstack 😃👨‍💻
 - Atualmente estou desenvolvendo websites juntamente com a [Wase][wase]
-- As próximas tecnologias que pretendo estudar são: Docker <img width="18px" src="https://devicon.dev/devicon.git/icons/docker/docker-original.svg" style="vertical-align: middle" /> e TypeScript <img width="18px" src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" style="vertical-align: middle" />
+- As próximas tecnologias que pretendo estudar são: Docker <img width="18px" src="https://devicon.dev/devicon.git/icons/docker/docker-original.svg" vertical-align="middle" /> e TypeScript <img width="18px" src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" vertical-align="middle" />
 - Estou a procura de um estágio 💼👨‍💼
 
 ### Onde me encontrar:
@@ -47,8 +47,12 @@
 
 <img align="left" width="32px" alt="VS Code" src="https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain.svg" />
 
-<br />
-<br />
+<br>
+<br>
+
+---
+
+<img align="center" alt="Erick's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=dsErick&show_icons=true&include_all_commits=true&hide_border=true&bg_color=45,000,152331&title_color=f09819&text_color=fff&icon_color=f09819" />
 
 [instagram]: https://www.instagram.com/erick__ds/
 [github]: https://github.com/dsErick
