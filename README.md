@@ -1,8 +1,8 @@
-# Olá, eu sou Erick 👋
+### Olá, eu sou Erick 👋
 
 ## Estudante de Sistemas de Informação e Desenvolver WEB Fullstack 😃👨‍💻
 - Atualmente estou desenvolvendo websites juntamente com a [Wase][wase]
-- As próximas tecnologias que pretendo estudar são: Docker <img width="18px" src="https://devicon.dev/devicon.git/icons/docker/docker-original.svg" /> e TypeScript <img width="18px" src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" />
+- As próximas tecnologias que pretendo estudar são: Docker <img width="18px" src="https://devicon.dev/devicon.git/icons/docker/docker-original.svg" style="vertical-align: middle" /> e TypeScript <img width="18px" src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" style="vertical-align: middle" />
 - Estou a procura de um estágio 💼👨‍💼
 
 ### Onde me encontrar:
