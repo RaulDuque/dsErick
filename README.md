@@ -2,7 +2,7 @@
 
 ## Estudante de Sistemas de Informação e Desenvolver WEB Fullstack 😃👨‍💻
 - Atualmente estou desenvolvendo websites juntamente com a [Wase][wase]
-- As próximas tecnologias que pretendo estudar são: Docker <img width="18px" src="https://devicon.dev/devicon.git/icons/docker/docker-original.svg" vertical-align="middle" /> e TypeScript <img width="18px" src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" vertical-align="middle" />
+- As próximas tecnologias que pretendo estudar são: Docker <img width="18px" src="https://devicon.dev/devicon.git/icons/docker/docker-original.svg" /> e TypeScript <img width="18px" src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" />
 - Estou a procura de um estágio 💼👨‍💼
 
 ### Onde me encontrar:
@@ -52,7 +52,13 @@
 
 ---
 
-<img align="center" alt="Erick's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=dsErick&show_icons=true&include_all_commits=true&hide_border=true&bg_color=45,000,152331&title_color=f09819&text_color=fff&icon_color=f09819" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" alt="Erick's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=dsErick&show_icons=true&include_all_commits=true&hide_border=true&bg_color=45,000,152331&title_color=f09819&text_color=fff&icon_color=f09819" />
+</a>
+
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" alt="Erick's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsErick&layout=compact&langs_count=10&hide_border=true&bg_color=45,152331,000&title_color=f09819&text_color=fff&icon_color=f09819" />
+</a> -->
 
 [instagram]: https://www.instagram.com/erick__ds/
 [twitter]: https://twitter.com/Erick_Ds_
