@@ -7,7 +7,7 @@
 
 ### Onde me encontrar:
 
-[<img align="left" width="26px" alt="Erick - GitHub" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" width="26px" alt="Erick - GitHub" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 [<img align="left" width="26px" alt="Erick - Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -55,6 +55,6 @@
 <img align="center" alt="Erick's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=dsErick&show_icons=true&include_all_commits=true&hide_border=true&bg_color=45,000,152331&title_color=f09819&text_color=fff&icon_color=f09819" />
 
 [instagram]: https://www.instagram.com/erick__ds/
-[github]: https://github.com/dsErick
+[twitter]: https://twitter.com/Erick_Ds_
 [linkedin]: https://www.linkedin.com/in/ds-erick/
 [wase]: https://www.instagram.com/agenciawase/
