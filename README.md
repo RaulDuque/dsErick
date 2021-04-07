@@ -2,7 +2,7 @@
 
 ## Estudante de Sistemas de Informação e Desenvolver WEB Fullstack 😃👨‍💻
 - Atualmente estou desenvolvendo websites juntamente com a [Wase][wase]
-- As próximas tecnologias que pretendo estudar são: Docker <img width="18px" src="https://devicon.dev/devicon.git/icons/docker/docker-original.svg" /> e TypeScript <img width="18px" src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" />
+- As próximas tecnologias que pretendo estudar são: Docker <img width="18px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" /> e TypeScript <img width="18px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
 - Estou a procura de um estágio 💼👨‍💼
 
 ### Onde me encontrar:
