@@ -1,13 +1,15 @@
 ## Olá, eu sou Erick 👋
 
-### Estudante de Sistemas de Informação, 6º período 👨‍💻
-### Desenvolver WEB Fullstack 🖥🖱
-### Desenvolvedor Mobile 📱
+- Estudante de Sistemas de Informação, 6º período 👨‍💻
+- Desenvolver WEB Fullstack 🖥🖱
+- Desenvolvedor Mobile 📱
 
 <!-- 
 - As próximas tecnologias que pretendo estudar são: Docker <img width="18px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" /> e TypeScript <img width="18px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
 - Estou a procura de um estágio 💼👨‍💼
 -->
+
+---
 
 ### Onde me encontrar:
 
@@ -15,16 +17,22 @@
 [<img align="left" width="26px" alt="Erick - Twitter" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" />][twitter]
 [<img align="left" width="26px" alt="Erick - LinkedIn" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />][linkedin]
 
-<br>
+<br />
+<br />
 
-#### Principais linguagens que uso
-Desenvolvimento WEB <br>
-<img align="left" width="32px" title="VueJs" alt="VueJs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" />
-<img align="left" width="32px" title="Laravel" alt="Laravel" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" />
-<img align="left" width="32px" title="NodeJs" alt="NodeJs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
-<br>
-Desenvolvimento Mobile <br>
-<img align="left" width="32px" title="Flutter" alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" />
+
+### Principais linguagens que uso
+
+#### Desenvolvimento WEB
+
+[<img align="left" width="32px" title="VueJs" alt="VueJs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" />][vuejs]
+[<img align="left" width="32px" title="Laravel" alt="Laravel" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" />][laravel]
+[<img align="left" width="32px" title="NodeJs" alt="NodeJs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />][nodejs]
+
+<br />
+
+#### Desenvolvimento Mobile
+[<img align="left" width="32px" title="Flutter" alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" />][flutter]
 
 <!--
 <img align="left" width="32px" alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
@@ -57,4 +65,7 @@ Desenvolvimento Mobile <br>
 [instagram]: https://www.instagram.com/erick__ds/
 [twitter]: https://twitter.com/Erick_Ds_
 [linkedin]: https://www.linkedin.com/in/ds-erick/
-<!-- [wase]: https://www.instagram.com/agenciawase/ -->
+[vuejs]: https://v3.vuejs.org/
+[laravel]: https://laravel.com/
+[nodejs]: https://nodejs.org/
+[flutter]: https://flutter.dev/
