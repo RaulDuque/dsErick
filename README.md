@@ -9,30 +9,28 @@
 - Estou a procura de um estágio 💼👨‍💼
 -->
 
+<!-- 
 ---
 
-### Onde me encontrar:
+### Onde me encontrar: -->
+<br />
 
 [<img align="left" width="26px" alt="Erick - Instagram" src="https://image.flaticon.com/icons/png/128/174/174855.png" />][instagram]
 [<img align="left" width="26px" alt="Erick - Twitter" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" />][twitter]
 [<img align="left" width="26px" alt="Erick - LinkedIn" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />][linkedin]
 
-<br />
-<br />
-
-
-### Principais linguagens que uso
-
-#### Desenvolvimento WEB
-
-[<img align="left" width="32px" title="VueJs" alt="VueJs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" />][vuejs]
-[<img align="left" width="32px" title="Laravel" alt="Laravel" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" />][laravel]
-[<img align="left" width="32px" title="NodeJs" alt="NodeJs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />][nodejs]
-
+<!-- <br />
 <br />
 
-#### Desenvolvimento Mobile
-[<img align="left" width="32px" title="Flutter" alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" />][flutter]
+### Principais linguagens que uso -->
+
+<!-- 
+[<img align="left" width="32px" title="VueJs - Frontend" alt="VueJs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" />][vuejs]
+[<img align="left" width="32px" title="Laravel - Backend" alt="Laravel" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" />][laravel]
+[<img align="left" width="32px" title="NodeJs - Backend" alt="NodeJs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />][nodejs]
+[<img align="left" width="32px" title="Flutter - Desenvolvimento mobile" alt="Flutter" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" />][flutter]
+[<img align="left" width="32px" title="Docker" alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />][docker]
+ -->
 
 <!--
 <img align="left" width="32px" alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
@@ -50,7 +48,6 @@
 -->
 
 <br>
-<br>
 
 ---
 
@@ -62,6 +59,16 @@
     <img align="center" alt="Erick's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsErick&layout=compact&langs_count=10&hide_border=true&bg_color=45,152331,000&title_color=f09819&text_color=fff&icon_color=f09819" />
 </a>
 
+<br />
+<br />
+
+[<img align="left" width="32px" title="VueJs - Frontend" alt="VueJs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" />][vuejs]
+[<img align="left" width="32px" title="Laravel - Backend" alt="Laravel" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" />][laravel]
+[<img align="left" width="32px" title="NodeJs - Backend" alt="NodeJs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />][nodejs]
+[<img align="left" width="32px" title="Flutter - Desenvolvimento mobile" alt="Flutter" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" />][flutter]
+[<img align="left" width="32px" title="Docker" alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />][docker]
+
+
 [instagram]: https://www.instagram.com/erick__ds/
 [twitter]: https://twitter.com/Erick_Ds_
 [linkedin]: https://www.linkedin.com/in/ds-erick/
@@ -69,3 +76,4 @@
 [laravel]: https://laravel.com/
 [nodejs]: https://nodejs.org/
 [flutter]: https://flutter.dev/
+[docker]: https://www.docker.com/
